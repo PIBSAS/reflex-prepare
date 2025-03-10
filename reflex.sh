@@ -30,7 +30,7 @@ reflex init --template blank
 
 # Abrir proyecto.py con nano
 echo "Abriendo proyecto.py con nano..."
-nano "$PROYECTO_DIR/proyecto.py"
+nano "$PROYECTO_DIR/proyecto/proyecto.py"
 
 echo "Configuración completada. Para continuar trabajando, recuerda activar el entorno con:"
 echo "source $VENV_DIR/bin/activate"
